@@ -2,7 +2,7 @@
   (:use [clojure.java.shell :only [sh]])
   (:gen-class))
 
-(def NOTIFY-INTERVAL-MINUTES 1)
+(def NOTIFY-INTERVAL-MINUTES 2)
 (def MESSAGES ["Sit up straight!"
                "Remember your posture!"
                "Scoot your butt all the way to the back of your seat."
