@@ -8,6 +8,7 @@
                "Scoot your butt all the way to the back of your seat."
                "I know it hurts sometimes, but thats your back growing stronger."
                "Place your feet flat on the floor."
+               "Build up your back strength! It will get easier!"
                "Dont cross your legs."
                "Make sure you aren't hunched."
                "Dont let your headphones pull your head down."
